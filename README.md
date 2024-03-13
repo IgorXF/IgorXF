@@ -21,5 +21,6 @@
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorXF&layout=compact&bg_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorXF&layout=compact&bg_color=1253652)
+
 
