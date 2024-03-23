@@ -1,5 +1,5 @@
 # Oioi! Eu sou o Igor 👋🏽🤠
-<img src="https://github.com/IgorXF/Minha-Imagem/blob/main/eu.png" alt="Minha Imagem" width="300" height="300">
+<img src="https://github.com/IgorXF/Minha-Imagem/blob/main/eu.png" alt="Minha Imagem" width="350" height="350">
 
 ## Sobre Mim
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xisto.igor/)
