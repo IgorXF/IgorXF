@@ -7,7 +7,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorhs2004@gmail.com)
 [![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-xisto-ferreira-2810822a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-![IgorXF GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorXF&show_icons=true&theme=radical)
 
 
 ## Domino as  Tecnologias:
@@ -23,7 +22,8 @@
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
-
+##Estatisticas
+![IgorXF GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorXF&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorXF&layout=compact&bg_color=141321)
 
 
