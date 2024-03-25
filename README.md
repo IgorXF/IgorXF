@@ -23,9 +23,9 @@
 </div>
 
 ## Estatísticas
-![IgorXF GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorXF&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorXF&layout=compact&bg_color=141321)
-
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=IgorXF&show_icons=true&theme=radical" width="45%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorXF&layout=compact&bg_color=141321" width="45%" />
+</p>
 
 
